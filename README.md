@@ -1,6 +1,6 @@
 ManufactoriaLang
 ================
 
-This is a Java 8 interpreter for the esolang Manufactoria.
+This contains Java 8 and NodeJS implementations of the esolang Manufactoria.
 
 esolangs page: http://esolangs.org/wiki/Manufactoria
